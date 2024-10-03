@@ -1,5 +1,6 @@
 //calculate compound interest.
-
+/* NAME:VINCENT KIBET 
+  REG:CT101/G/24767/24 */
 #include <stdio.h>
 
 #include <math.h>
