@@ -1,4 +1,6 @@
 //calculate simple interest
+/* NAME:VINCENT KIBET
+ REG:CT101/G/24767/24 */
 #include <stdio.h>
 
 int main(){
